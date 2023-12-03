@@ -1,0 +1,52 @@
+body {
+    font-family: 'Playfair Display', serif;
+    background: cornflowerblue ; 
+}
+
+.header_div
+{
+    color:azure;
+    background: darkblue;
+}
+.header_div p
+{
+    font-family: 'PT Serif', serif; 
+    font-weight:bold ;
+    letter-spacing: normal;
+    font-size: 12px;
+}
+.main_div button
+{
+font-family: 'PT Serif', serif; 
+margin-top: 30px;
+width: 130px;
+font-weight: bolder; 
+letter-spacing: 3px;
+}
+.copy_right_footer
+{
+    position:fixed;
+    color: black;
+    bottom:0;
+    width:100%;
+    font-size:18px;
+    background-color: lightcyan;
+    line-height:3;
+    text-align: center;
+    text-shadow: 5px 5px 5px rgb (151,149,149) ;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
